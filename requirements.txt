@@ -19,5 +19,5 @@ A lightweight, user-friendly chatbot built using **Streamlit** and the **Groq AP
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/streamlit-chatbot-groq.git
+git clone https://github.com/MONIKA122004/streamlit-chatbot-groq
 cd streamlit-chatbot-groq
