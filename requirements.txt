@@ -1,0 +1,23 @@
+# 🤖 Streamlit GPT-Free Chatbot (Groq API)
+
+A lightweight, user-friendly chatbot built using **Streamlit** and the **Groq API** (LLaMA/Mistral models) — no OpenAI key needed! Chat history is stored locally using JSON.
+
+---
+
+## 🚀 Features
+
+- ✨ Conversational memory
+- 📁 Local chat history using JSON
+- 🎨 Styled UI with user and bot message bubbles
+- 💸 No cost, uses free Groq API
+- 🧹 Chat clear/reset button
+
+---
+
+## 📦 Setup Instructions
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/streamlit-chatbot-groq.git
+cd streamlit-chatbot-groq
